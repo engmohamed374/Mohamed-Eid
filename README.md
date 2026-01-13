@@ -10,8 +10,6 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
-
 I am a Msc student currently working as a research assistant skilled in moeling & system identification, control systems, Robotics, Quadcopters, C/C++, Embedded C, MATLAB & Simulink. <br/>
 I have worked on projects that solved real-world challanges, applied theoretical control concepts, and continuously strive to improve my skills and contribute to impactful applications.
 
