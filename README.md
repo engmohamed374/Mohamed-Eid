@@ -1,11 +1,11 @@
 # Hey there, I'm [Mohamed Eid](https://yousefdergham.vercel.app/) 👋
 
-**Mechatronics Engineer · Control and Robotics Enthusiast · Msc Student ☕**
+**Mechatronics Engineer · Control and Robotics Enthusiast · Msc Student**
 
 💼 **Current:** Research Assistant at [RPTU - Chair of Control Systems](https://eit.rptu.de/en/fgs/lrs)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=engmohamed374&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ## 🚀 About Me
