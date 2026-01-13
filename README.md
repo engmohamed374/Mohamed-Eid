@@ -4,10 +4,6 @@
 
 💼 **Current:** Research Assistant at [RPTU - Chair of Control Systems](https://eit.rptu.de/en/fgs/lrs)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=engmohamed374&style=for-the-badge" alt="Profile Views"/>
-</p>
-
 ## 🚀 About Me
 
 I am a Msc student currently working as a research assistant skilled in moeling & system identification, control systems, Robotics, Quadcopters, C/C++, Embedded C, MATLAB & Simulink. <br/>
